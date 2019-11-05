@@ -7,3 +7,6 @@
 [1105/125737.972:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Noflat\: Access is denied. (0x5)
 [1105/125737.988:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
 [1105/125737.989:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Noflat\: Access is denied. (0x5)
+[1105/133439.330:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Noflat\: Access is denied. (0x5)
+[1105/133439.352:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1105/133439.353:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Noflat\: Access is denied. (0x5)
