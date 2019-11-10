@@ -6,7 +6,6 @@ import { selectCollection } from "../../redux/shop/shop.selector";
 
 // Route passes 3 props by default.
 const CollectionsPage = ({ collection }) => {
-  console.log("Passed in", collection);
   const { title, items } = collection;
   return (
     <div className="collections-page">
